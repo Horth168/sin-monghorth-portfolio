@@ -2,7 +2,7 @@
 
 This is the repository for my personal portfolio website, a dynamic and interactive single-page application designed to showcase my skills, projects, and professional journey. The site features a sleek, modern design with a high-tech aesthetic, including a custom animated background.
 
-**Live Demo:** [**sin-monghorth-portfolio.vercel.app**](https://sin-monghorth-portfolio.vercel.app/)\
+**Live Demo:** [**sin-monghorth-portfolio.vercel.app**](https://sin-monghorth-portfolio.vercel.app/)
 
 ## 🚀 Features
 
